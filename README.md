@@ -15,17 +15,23 @@ This project was created using Express, NodeJS, MongoDB and Bootstrap.
 ## Run it locally
 1. Install mongodb
 2. Create a cloudinary account to get an API key and secret code and also create a Mapbox API token
-`git clone git@github.com:AayushKrShukla/yelpcamp.git using SSH
+
+
+```
+git clone git@github.com:AayushKrShukla/yelpcamp.git using SSH
 cd yelpcamp
-npm install`
+npm install
+```
 
 Create a .env file (or just export manually in the terminal) in the root of the project and add the following:
 
-`CLOUDINARY_CLOUD_NAME=<name>
+```
+CLOUDINARY_CLOUD_NAME=<name>
 CLOUDINARY_KEY=<key>
 CLOUDINARY_SECRET=<secret>
 MAPBOX_TOKEN=<token>
-DB_URL=<MongoDB connectionURL>`
+DB_URL=<MongoDB connectionURL>
+```
   
 Run mongod in another terminal and node app.js in the terminal with the project.
 
