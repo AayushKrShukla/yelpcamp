@@ -15,7 +15,7 @@ This project was created using Express, NodeJS, MongoDB and Bootstrap.
 
 
 ```
-git clone git@github.com:AayushKrShukla/yelpcamp.git using SSH
+git clone https://github.com/AayushKrShukla/yelpcamp.git
 cd yelpcamp
 npm install
 ```
