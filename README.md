@@ -9,9 +9,6 @@ This project was created using Express, NodeJS, MongoDB and Bootstrap.
 * Add images for the campgrounds
 * Show the campground location on map
 
-![homepage](<https://drive.google.com/file/d/1xiccXFWsqFcJMJFlb4SnNCLfLRwFDPyY/view>)
-![campgrounds](<https://drive.google.com/file/d/1svCOF0OqyMj_vYdf257RtPHz_hCwQ97_/view>)
-
 ## Run it locally
 1. Install mongodb
 2. Create a cloudinary account to get an API key and secret code and also create a Mapbox API token
@@ -36,3 +33,6 @@ DB_URL=<MongoDB connectionURL>
 Run mongod in another terminal and node app.js in the terminal with the project.
 
 Then go to localhost:3000.
+
+## Live
+The prject is currently live on https://damp-hamlet-43653.herokuapp.com/
