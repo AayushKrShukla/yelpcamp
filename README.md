@@ -9,8 +9,8 @@ This project was created using Express, NodeJS, MongoDB and Bootstrap.
 * Add images for the campgrounds
 * Show the campground location on map
 
-![homepage](https://drive.google.com/file/d/1xiccXFWsqFcJMJFlb4SnNCLfLRwFDPyY/view)
-![campgrounds](https://drive.google.com/file/d/1svCOF0OqyMj_vYdf257RtPHz_hCwQ97_/view)
+![homepage](<https://drive.google.com/file/d/1xiccXFWsqFcJMJFlb4SnNCLfLRwFDPyY/view>)
+![campgrounds](<https://drive.google.com/file/d/1svCOF0OqyMj_vYdf257RtPHz_hCwQ97_/view>)
 
 ## Run it locally
 1. Install mongodb
