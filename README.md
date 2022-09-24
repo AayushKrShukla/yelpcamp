@@ -33,6 +33,3 @@ DB_URL=<MongoDB connectionURL>
 Run mongod in another terminal and node app.js in the terminal with the project.
 
 Then go to localhost:3000.
-
-## Live
-The project is currently live on https://damp-hamlet-43653.herokuapp.com/
